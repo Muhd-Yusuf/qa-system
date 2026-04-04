@@ -1,0 +1,3 @@
+[     917ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://abokidollarrate.ng/favicon.ico:0
+[    1214ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://abokidollarrate.ng/icon-512x512.png:0
+[    1216ms] [WARNING] Error while trying to use the following icon from the Manifest: https://abokidollarrate.ng/icon-512x512.png (Download error or resource isn't a valid image) @ https://abokidollarrate.ng/:0

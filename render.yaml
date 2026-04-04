@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: qa-system
+    runtime: docker
+    plan: starter
+    envVars:
+      - key: MONGODB_URI
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false

@@ -1,0 +1,6 @@
+[   15360ms] [ERROR] Access to fetch at 'https://thriftpals.com/' from origin 'https://codetratives.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://codetratives.com/products:0
+[   15360ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://thriftpals.com/:0
+[   16210ms] [ERROR] Access to fetch at 'https://medsys-innova.up.railway.app/' from origin 'https://codetratives.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://codetratives.com/products:0
+[   16210ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://medsys-innova.up.railway.app/:0
+[   28524ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://medsys-innova.up.railway.app/:0
+[   28948ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://medsys-innova.up.railway.app/favicon.ico:0

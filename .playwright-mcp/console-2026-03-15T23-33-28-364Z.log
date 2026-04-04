@@ -1,0 +1,14 @@
+[     496ms] [WARNING] [expo-notifications] Listening to push token changes is not yet fully supported on web. Adding a listener will have no effect. @ https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:14290
+[     496ms] [WARNING] [expo-av]: Expo AV has been deprecated and will be removed in SDK 54. Use the `expo-audio` and `expo-video` packages to replace the required functionality. @ https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:14434
+[     514ms] o: The method or property Notifications.setNotificationCategoryAsync is not available on web, are you sure you've linked all the native dependencies properly?
+    at Object.setNotificationCategoryAsync (https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:14417:274)
+    at Object.c (https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:14418:402)
+    at https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:14451:1195
+    at https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:14451:1417
+    at f (https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:2:2060)
+    at a (https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:2:1556)
+    at i (https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:2:586)
+    at https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:14287:725
+    at f (https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:2:2060)
+    at a (https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:2:1556)
+[     665ms] [WARNING] Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md @ https://thegryd.io/_expo/static/js/web/entry-768c82bb1e1b74097185dee1ce25b6da.js:363
